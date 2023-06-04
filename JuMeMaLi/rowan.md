@@ -1,0 +1,1 @@
+knows his bro [[Daniel]] is having trouble with kobalds in [[DeadRose Quarry]] and wants the party to help him out.

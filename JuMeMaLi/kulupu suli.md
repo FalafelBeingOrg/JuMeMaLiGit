@@ -1,0 +1,1 @@
+an ancient advanced civ. said to have acces to powerful magics and cities. use sitelen pona to write. the 

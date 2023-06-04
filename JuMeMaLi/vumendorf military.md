@@ -1,0 +1,1 @@
+fucing terrible peeps who like kill civilians n shit

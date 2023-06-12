@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0e9494e9241d6991",
+            "id": "80fef678be7840b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blomandorf.md",
+                "file": "Ilor (ee Lor), keeper of the past.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#randomencounters",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blomandorf.md",
+                "file": "Ilor (ee Lor), keeper of the past.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blomandorf.md",
+                "file": "Ilor (ee Lor), keeper of the past.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blomandorf.md"
+                "file": "Ilor (ee Lor), keeper of the past.md"
               }
             }
           }
@@ -178,45 +177,45 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "0e9494e9241d6991",
+  "active": "80fef678be7840b8",
   "lastOpenFiles": [
-    "Pasted image 20230610225446.png",
-    "Pasted image 20230610225431.png",
-    "Pasted image 20230610225414.png",
-    "Pasted image 20230610225353.png",
     "akesi kiwen.md",
-    "Ilor (ee Lor), keeper of the past.md",
-    "Pasted image 20230610224017.png",
-    "Toki Pona.md",
-    "GENHEX.md",
-    "kulupu suli.md",
-    "stairs.md",
-    "the clover cult.md",
-    "sike pi telo wawa.md",
-    "rowan.md",
-    "Blomandorf.md",
-    "The sculpture garden.md",
-    "the kulupu reasearchers.md",
-    "river.md",
-    "Pantheon.md",
-    "og pc locale.md",
-    "northern redtooth kobald tribe.md",
-    "ma kiwen.md",
     "Kluex.md",
+    "river.md",
+    "rowan.md",
+    "Pantheon, the.md",
+    "Pantheon.md",
+    "Bakto.md",
+    "the cycle.md",
+    "Weather.md",
+    "kulupu suli.md",
     "kiwen wawa.md",
     "kiwen open.md",
     "kili wawa.md",
+    "Images/Pasted image 20230610224017.png",
+    "Ilor (ee Lor), keeper of the past.md",
+    "Blomandorf.md",
+    "Images/Pasted image 20230610225446.png",
+    "Images/Pasted image 20230610225431.png",
+    "Images/Pasted image 20230610225414.png",
+    "Images/Pasted image 20230610225353.png",
+    "Toki Pona.md",
+    "GENHEX.md",
+    "stairs.md",
+    "the clover cult.md",
+    "sike pi telo wawa.md",
+    "The sculpture garden.md",
+    "the kulupu reasearchers.md",
+    "og pc locale.md",
+    "northern redtooth kobald tribe.md",
+    "ma kiwen.md",
     "Jack.md",
-    "ivanstork.md",
-    "ichorman.md",
-    "deer trail.md",
     "Images/Pasted image 20230610222553.png",
     "Images/Pasted image 20230610222605.png",
     "Images/Pasted image 20230610213010.png",
     "Untitled",
     "Images/Pasted image 20230610221407.png",
     "Images/Pasted image 20230610220529.png",
-    "Images/Pasted image 20230610220524.png",
     "Images"
   ]
 }

@@ -19,4 +19,4 @@ Looks
 		Runes:
 		![[Pasted image 20230610225446.png]]![[Pasted image 20230610225353.png]]
 
-they will offer a jar of [[sike pi telo wawa]] in exchange for a good story of blood and battle.
+they will offer a jar of [[telo wawa]] in exchange for a good story of blood and battle.

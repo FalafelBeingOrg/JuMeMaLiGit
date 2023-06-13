@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "888a27f239cecc3b",
+        "id": "2d482b9a9d0c6f27",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ilor (ee Lor), keeper of the past.md",
+                "file": "Exclusion Zone, The.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,6 +44,18 @@
               "type": "markdown",
               "state": {
                 "file": "Toki Pona.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d0692e4cda0ec00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ilor (ee Lor), keeper of the past.md",
+                "file": "Exclusion Zone, The.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ilor (ee Lor), keeper of the past.md",
+                "file": "Exclusion Zone, The.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ilor (ee Lor), keeper of the past.md"
+                "file": "Exclusion Zone, The.md"
               }
             }
           }
@@ -177,45 +189,45 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "80fef678be7840b8",
+  "active": "bbc2e224798fbf9f",
   "lastOpenFiles": [
-    "akesi kiwen.md",
-    "Kluex.md",
-    "river.md",
-    "rowan.md",
-    "Pantheon, the.md",
-    "Pantheon.md",
-    "Bakto.md",
-    "the cycle.md",
-    "Weather.md",
-    "kulupu suli.md",
-    "kiwen wawa.md",
-    "kiwen open.md",
-    "kili wawa.md",
-    "Images/Pasted image 20230610224017.png",
+    "sitelen sona.md",
+    "Exclusion Zone, The.md",
+    "Ideas.md",
+    "Images/Pasted image 20230613162628.png",
     "Ilor (ee Lor), keeper of the past.md",
-    "Blomandorf.md",
-    "Images/Pasted image 20230610225446.png",
-    "Images/Pasted image 20230610225431.png",
-    "Images/Pasted image 20230610225414.png",
-    "Images/Pasted image 20230610225353.png",
-    "Toki Pona.md",
+    "ichorman.md",
     "GENHEX.md",
-    "stairs.md",
-    "the clover cult.md",
-    "sike pi telo wawa.md",
-    "The sculpture garden.md",
-    "the kulupu reasearchers.md",
+    "deer trail.md",
+    "DeadRose Quarry.md",
+    "Daniel.md",
+    "Blomandorf.md",
+    "bakto's terryfiing quicsine.md",
+    "Bakto.md",
+    "akesi kiwen.md",
+    "magic items, kulupu suli.md",
+    "Images/Pasted image 20230613163924.png",
+    "Images/Pasted image 20230613163917.png",
+    "Images/Pasted image 20230613163023.png",
+    "Images/Pasted image 20230613162643.png",
+    "Images/Pasted image 20230613162638.png",
+    "kiwen open.md",
+    "kiwen wawa.md",
+    "kili wawa.md",
+    "Jack.md",
+    "telo wawa.md",
+    "Images/Pasted image 20230613153404.png",
+    "Images/Pasted image 20230613161152.png",
+    "Images/Pasted image 20230613161145.png",
+    "Images/Pasted image 20230613155326.png",
+    "monsuta weka.md",
+    "monsuta tawa.md",
+    "Toki Pona.md",
+    "ivanstork.md",
     "og pc locale.md",
     "northern redtooth kobald tribe.md",
     "ma kiwen.md",
-    "Jack.md",
-    "Images/Pasted image 20230610222553.png",
-    "Images/Pasted image 20230610222605.png",
-    "Images/Pasted image 20230610213010.png",
     "Untitled",
-    "Images/Pasted image 20230610221407.png",
-    "Images/Pasted image 20230610220529.png",
     "Images"
   ]
 }

@@ -10,7 +10,7 @@ Looks
 
 also a devout follower of the [[Kluex]] and wears a massive kluex amulet.
 
-covered in tattoos of sona. trades info on runes for magical artifacts. just happens to show up on the road all the time and they chillin. they are maybe following the party kinda but ist majic. todo - add a shit ton of majic items
+covered in tattoos of sona. trades info on runes for magical artifacts. just happens to show up on the road all the time and they chillin. they are maybe following the party kinda but ist majic.
 
 
 
@@ -30,3 +30,5 @@ looking for answeres
 	ala
 	kili
 	monsuta
+
+gets magic items from [[magic items, kulupu suli]]

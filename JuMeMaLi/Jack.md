@@ -1,1 +1,1 @@
-leader of the [[the clover cult]]. kinda crazy. Whole family was murdered by the [[vumendorf military]]. burn scars.
+leader of the [[clover cult, the]]. kinda crazy. Whole family was murdered by the [[vumendorf military]]. burn scars.

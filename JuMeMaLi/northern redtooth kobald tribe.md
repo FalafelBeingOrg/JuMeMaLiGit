@@ -1,7 +1,7 @@
 #koboldsnshit
 
 alarm level 0/4
-
+[[Koblold shit.canvas|Koblold shit]]
 
 1 kobald guarding the trail up ahaed. will alert others and raise alarm level by 2 if allowed to escape.
 

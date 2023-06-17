@@ -1,4 +1,4 @@
-#todo #randomencounters 
+ #randomencounters 
 
 a place with wild mutated plants held in by an ancient spell cast by the [[kulupu suli]]. result of a failed experiment trying to make sentient plantfolk guardians. need to retreive a [[sitelen sona]] (a [[kulupu suli]] translator containing about 10 words) from a shrine inside. monsters in the order encountered
 
@@ -22,6 +22,7 @@ queen bee
 encounter 2
 
 hazmat john
+	laughs like ha ha ha ha ha
 	hp 30
 	mod +4
 	+ cha dex

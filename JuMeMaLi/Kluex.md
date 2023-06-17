@@ -1,1 +1,1 @@
-God of the afterlife followed by the peeps. also [[the cycle]]
+God of the afterlife followed by the peeps. also [[cycle, the]]

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"file","file":"Daniel.md","id":"fb659492fd7692a0","x":-260,"y":-820,"width":400,"height":400},
+		{"type":"file","file":"DeadRose Quarry.md","id":"41f2059e4c1b3119","x":-260,"y":-360,"width":400,"height":400},
+		{"type":"file","file":"northern redtooth kobald tribe.md","id":"a1585da3c4e6e9f6","x":-260,"y":140,"width":400,"height":620},
+		{"type":"file","file":"river.md","id":"df38c96d95031da3","x":240,"y":860,"width":400,"height":1080},
+		{"type":"file","file":"stairs.md","id":"0ae45f39605fe8c9","x":-260,"y":860,"width":400,"height":400},
+		{"type":"file","file":"deer trail.md","id":"26f03b3c5019c546","x":-780,"y":860,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"18f543e398810849","fromNode":"fb659492fd7692a0","fromSide":"bottom","toNode":"41f2059e4c1b3119","toSide":"top"},
+		{"id":"d1c26050804336f6","fromNode":"41f2059e4c1b3119","fromSide":"bottom","toNode":"a1585da3c4e6e9f6","toSide":"top"},
+		{"id":"2f69fd392063becf","fromNode":"a1585da3c4e6e9f6","fromSide":"bottom","toNode":"df38c96d95031da3","toSide":"top"},
+		{"id":"ee31875b0ecad902","fromNode":"a1585da3c4e6e9f6","fromSide":"bottom","toNode":"0ae45f39605fe8c9","toSide":"top"},
+		{"id":"7a1d43e1c38decfa","fromNode":"a1585da3c4e6e9f6","fromSide":"bottom","toNode":"26f03b3c5019c546","toSide":"top"},
+		{"id":"5698faf2b0c67b02","fromNode":"0ae45f39605fe8c9","fromSide":"left","toNode":"26f03b3c5019c546","toSide":"right"},
+		{"id":"6542e5b1f25e09e2","fromNode":"0ae45f39605fe8c9","fromSide":"right","toNode":"df38c96d95031da3","toSide":"left"},
+		{"id":"035992f6dc588acf","fromNode":"df38c96d95031da3","fromSide":"left","toNode":"0ae45f39605fe8c9","toSide":"right"},
+		{"id":"495f268111f5cd85","fromNode":"df38c96d95031da3","fromSide":"left","toNode":"26f03b3c5019c546","toSide":"right"}
+	]
+}

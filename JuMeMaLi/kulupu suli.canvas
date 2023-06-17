@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"a85b66911c4bf747","x":-1280,"y":-400,"width":400,"height":400,"type":"file","file":"kulupu suli.md"},
+		{"type":"file","file":"kili wawa.md","id":"83b13a4a25a06051","x":-140,"y":-400,"width":400,"height":400},
+		{"id":"d3c64f8b73906691","x":-1280,"y":-820,"width":400,"height":400,"type":"file","file":"kiwen wawa.md"},
+		{"id":"a01df69843545ed4","x":-1280,"y":40,"width":400,"height":400,"type":"file","file":"Toki Pona.md"},
+		{"type":"file","file":"akesi kiwen.md","id":"70882280faf868ed","x":-580,"y":-400,"width":400,"height":400},
+		{"id":"532b04f3b62739bc","x":-1800,"y":-400,"width":400,"height":400,"type":"file","file":"kulupu reasearchers, the.md"},
+		{"id":"92881a7958e2117d","x":-780,"y":40,"width":400,"height":400,"type":"file","file":"sitelen sona.md"},
+		{"type":"file","file":"Ilor (ee Lor), keeper of the past.md","id":"4d118a2ead72f748","x":-580,"y":-1360,"width":400,"height":400},
+		{"id":"7d8851e1802121c5","x":-80,"y":-881,"width":400,"height":400,"type":"file","file":"kiwen open.md"},
+		{"id":"b8b92062ffc5ff89","x":-580,"y":-881,"width":400,"height":400,"type":"file","file":"magic items, kulupu suli.md"}
+	],
+	"edges":[
+		{"id":"7b1399368af71ba5","fromNode":"a85b66911c4bf747","fromSide":"bottom","toNode":"a01df69843545ed4","toSide":"top"},
+		{"id":"82da9c8b0da366a1","fromNode":"70882280faf868ed","fromSide":"right","toNode":"83b13a4a25a06051","toSide":"left"},
+		{"id":"b33bb94fa3306d95","fromNode":"a85b66911c4bf747","fromSide":"top","toNode":"d3c64f8b73906691","toSide":"bottom"},
+		{"id":"69f390fae858edae","fromNode":"532b04f3b62739bc","fromSide":"right","toNode":"a85b66911c4bf747","toSide":"left"},
+		{"id":"2605acaa70a26460","fromNode":"a85b66911c4bf747","fromSide":"right","toNode":"70882280faf868ed","toSide":"left"},
+		{"id":"024cac98185cfb3d","fromNode":"4d118a2ead72f748","fromSide":"bottom","toNode":"b8b92062ffc5ff89","toSide":"top"},
+		{"id":"6236a554ea765db5","fromNode":"a85b66911c4bf747","fromSide":"right","toNode":"b8b92062ffc5ff89","toSide":"left"},
+		{"id":"10f41fe2068e5885","fromNode":"b8b92062ffc5ff89","fromSide":"right","toNode":"7d8851e1802121c5","toSide":"left"}
+	]
+}

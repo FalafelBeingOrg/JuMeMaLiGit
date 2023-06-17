@@ -1,4 +1,4 @@
-[[Kluex]] - afterlife and [[the cycle]]
+[[Kluex]] - afterlife and [[cycle, the]]
 [[rori]] - god of the gays
 [[Bakto]] - god of desire hunger kitchens
 [[johnny deep]] - depths

@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2d482b9a9d0c6f27",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80fef678be7840b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exclusion Zone, The.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "2d4e554dad319d4d",
         "type": "tabs",
         "children": [
@@ -50,19 +32,37 @@
             }
           },
           {
-            "id": "6d0692e4cda0ec00",
+            "id": "6d2a468753a7cf37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "kulupu suli.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "32b65f7eb0bc11d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fef678be7840b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kulupu suli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:#koboldsnshit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exclusion Zone, The.md",
+                "file": "kulupu suli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exclusion Zone, The.md",
+                "file": "kulupu suli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exclusion Zone, The.md"
+                "file": "kulupu suli.md"
               }
             }
           }
@@ -189,44 +189,45 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "bbc2e224798fbf9f",
+  "active": "6d2a468753a7cf37",
   "lastOpenFiles": [
-    "sitelen sona.md",
-    "Exclusion Zone, The.md",
-    "Ideas.md",
-    "Images/Pasted image 20230613162628.png",
-    "Ilor (ee Lor), keeper of the past.md",
-    "ichorman.md",
+    "kulupu suli.canvas",
+    "kiwen open.md",
     "GENHEX.md",
-    "deer trail.md",
-    "DeadRose Quarry.md",
-    "Daniel.md",
-    "Blomandorf.md",
+    "Toki Pona.md",
+    "kulupu suli.md",
+    "northern redtooth kobald tribe.md",
     "bakto's terryfiing quicsine.md",
     "Bakto.md",
     "akesi kiwen.md",
+    "Koblold shit.canvas",
+    "clover cult, the.md",
+    "cycle, the.md",
+    "sculpture garden, the.md",
+    "kulupu reasearchers, the.md",
+    "stairs.md",
+    "river.md",
+    "deer trail.md",
+    "Daniel.md",
     "magic items, kulupu suli.md",
-    "Images/Pasted image 20230613163924.png",
-    "Images/Pasted image 20230613163917.png",
-    "Images/Pasted image 20230613163023.png",
-    "Images/Pasted image 20230613162643.png",
-    "Images/Pasted image 20230613162638.png",
-    "kiwen open.md",
-    "kiwen wawa.md",
-    "kili wawa.md",
-    "Jack.md",
-    "telo wawa.md",
-    "Images/Pasted image 20230613153404.png",
-    "Images/Pasted image 20230613161152.png",
-    "Images/Pasted image 20230613161145.png",
-    "Images/Pasted image 20230613155326.png",
-    "monsuta weka.md",
-    "monsuta tawa.md",
-    "Toki Pona.md",
-    "ivanstork.md",
-    "og pc locale.md",
-    "northern redtooth kobald tribe.md",
-    "ma kiwen.md",
+    "Ilor (ee Lor), keeper of the past.md",
+    "Exclusion Zone, The.md",
+    "Blomandorf.md",
+    "Images/Pasted image 20230615205020.png",
+    "Maze Rats.md",
+    "Images/Pasted image 20230615205030.png",
+    "Ideas.md",
+    "Images/Pasted image 20230615205828.png",
+    "Images/Pasted image 20230615205819.png",
+    "Images/Pasted image 20230615205630.png",
+    "Images/Pasted image 20230615205620.png",
+    "Images/Pasted image 20230615205213.png",
+    "Images/Pasted image 20230615205158.png",
+    "Images/Pasted image 20230615205142.png",
+    "Images/Pasted image 20230615205129.png",
+    "sitelen sona.md",
+    "ichorman.md",
+    "DeadRose Quarry.md",
     "Untitled",
     "Images"
   ]

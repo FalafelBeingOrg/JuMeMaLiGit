@@ -4,62 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d4e554dad319d4d",
+        "id": "5ba0d4074215d557",
         "type": "tabs",
         "children": [
           {
-            "id": "4578b31bf22cdb32",
+            "id": "4f24f2dc4323b089",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GENHEX.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "61a168922b676b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Toki Pona.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d2a468753a7cf37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kulupu suli.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "32b65f7eb0bc11d7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80fef678be7840b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "kulupu suli.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -128,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kulupu suli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kulupu suli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "kulupu suli.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -189,13 +138,13 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6d2a468753a7cf37",
+  "active": "4f24f2dc4323b089",
   "lastOpenFiles": [
+    "kulupu suli.md",
     "kulupu suli.canvas",
+    "Toki Pona.md",
     "kiwen open.md",
     "GENHEX.md",
-    "Toki Pona.md",
-    "kulupu suli.md",
     "northern redtooth kobald tribe.md",
     "bakto's terryfiing quicsine.md",
     "Bakto.md",

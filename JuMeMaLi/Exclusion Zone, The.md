@@ -42,7 +42,7 @@ find massive 40' statue with upheld hands holding [[sitelen sona]] must get it d
 
 on exit encounter 3
 
-see a thicket of trees ahead even heavier than before. difficult terrain. half way thru one of the trees groans and attacks
+see a thicket of trees ahead even heavier than before. you hear a moaning coming as if from the wind. difficult terrain. half way thru one of the trees groans and attacks
 ent
 	hp 25
 	mod +2

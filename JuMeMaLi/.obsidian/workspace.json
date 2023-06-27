@@ -11,11 +11,40 @@
             "id": "4f24f2dc4323b089",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Timeline Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c315b075937a3da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gallery example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f8ca95749d568ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knave 2e.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Knave 2e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Knave 2e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,6 +149,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Knave 2e.md"
+              }
+            }
+          },
+          {
+            "id": "51abf46c452ad135",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
             }
           }
@@ -135,48 +176,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "smart-random-note:Open Random Note from Search": false
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "obsidian-gallery:Gallery": false
     }
   },
-  "active": "4f24f2dc4323b089",
+  "active": "8f8ca95749d568ae",
   "lastOpenFiles": [
-    "kulupu suli.md",
+    "gallery example.md",
+    "Knave 2e.md",
+    "Timeline Example.md",
+    "Ilor (ee Lor), keeper of the past.md",
+    "Images/Pasted image 20230615205819.png",
+    "ma kiwen.md",
     "kulupu suli.canvas",
-    "Toki Pona.md",
+    "kulupu suli.md",
+    "kulupu reasearchers, the.md",
     "kiwen open.md",
+    "kili wawa.md",
+    "Jack.md",
+    "ivanstork.md",
+    "Ideas.md",
+    "ichorman.md",
     "GENHEX.md",
-    "northern redtooth kobald tribe.md",
+    "Exclusion Zone, The.md",
+    "deer trail.md",
+    "DeadRose Quarry.md",
+    "Daniel.md",
+    "cycle, the.md",
+    "clover cult, the.md",
+    "Blomandorf.md",
+    "telo wawa.md",
     "bakto's terryfiing quicsine.md",
     "Bakto.md",
     "akesi kiwen.md",
+    "Toki Pona.md",
     "Koblold shit.canvas",
-    "clover cult, the.md",
-    "cycle, the.md",
-    "sculpture garden, the.md",
-    "kulupu reasearchers, the.md",
-    "stairs.md",
-    "river.md",
-    "deer trail.md",
-    "Daniel.md",
-    "magic items, kulupu suli.md",
-    "Ilor (ee Lor), keeper of the past.md",
-    "Exclusion Zone, The.md",
-    "Blomandorf.md",
     "Images/Pasted image 20230615205020.png",
-    "Maze Rats.md",
     "Images/Pasted image 20230615205030.png",
-    "Ideas.md",
     "Images/Pasted image 20230615205828.png",
-    "Images/Pasted image 20230615205819.png",
     "Images/Pasted image 20230615205630.png",
     "Images/Pasted image 20230615205620.png",
     "Images/Pasted image 20230615205213.png",
     "Images/Pasted image 20230615205158.png",
     "Images/Pasted image 20230615205142.png",
     "Images/Pasted image 20230615205129.png",
-    "sitelen sona.md",
-    "ichorman.md",
-    "DeadRose Quarry.md",
     "Untitled",
     "Images"
   ]

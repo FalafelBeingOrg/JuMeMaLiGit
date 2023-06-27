@@ -1,7 +1,6 @@
 #randomencounters 
 
 ![[Pasted image 20230610224017.png]]
-MUST BE FACED AFTER 1 TOKI PONA RELATED ENCOUNTER
 
 will notice any toki pona on the party instantly
 
